@@ -1,0 +1,123 @@
+EternalSystem – Lizenz für die kostenlose Nutzung
+=================================================
+
+Copyright (c) 2026 Adam (LeqitAdam). Alle Rechte, die nicht ausdrücklich
+eingeräumt werden, bleiben vorbehalten.
+
+EternalSystem (Server-Plugin, Proxy-Plugin, REST-API mit Eternal Cloud,
+Web-Dashboard, Landing-Seite und Lizenzserver) ist kostenlos erhältlich.
+Diese Lizenz regelt, was du mit der Software ohne Kauf tun darfst. Für
+gekaufte Lizenzen und alles Weitere gelten die Lizenzbedingungen:
+https://eternal.adambn.dev/lizenzbedingungen
+
+
+1. Was du kostenlos darfst
+--------------------------
+
+Du darfst die offiziellen Builds von EternalSystem (die Dateien aus
+https://github.com/LeqitAdam/EternalV1-releases bzw. aus der eingebauten
+Update-Funktion) unentgeltlich
+
+  a) herunterladen, installieren und auf beliebig vielen eigenen oder
+     gemieteten Servern betreiben – privat und gewerblich, auch auf
+     Netzwerken, die Geld einnehmen;
+
+  b) alle Funktionen nutzen, die ohne Lizenzschlüssel freigeschaltet sind:
+     die Base-Module (u. a. Core, Strafen, Reports, Lobby) und alle weiteren
+     Module und Funktionen, die der Lizenzserver als kostenlos ausweist
+     ("Free-Liste", sichtbar im Dashboard unter "Lizenz" und im Wiki unter
+     "Lizenzierung");
+
+  c) die Software für den Betrieb deines Netzwerks konfigurieren, eigene
+     Inhalte (Texte, Ränge, Karten, Templates, Designs) damit erstellen und
+     diese Inhalte frei verwenden;
+
+  d) Kopien für Sicherungen anlegen und die Software durch Dienstleister
+     (z. B. deinen Hoster oder Administrator) für dich installieren und
+     betreiben lassen.
+
+Kostenlos bleibt kostenlos: Für die Nutzung nach Ziffer 1 zahlst du nichts,
+und sie hängt nicht von der Nutzungsstatistik oder anderen Daten ab.
+
+
+2. Was eine gekaufte Lizenz braucht
+-----------------------------------
+
+Module, Spielmodi und Funktionen, die nicht kostenlos sind, darfst du nur mit
+einem gültigen Lizenzschlüssel für das jeweilige Netzwerk nutzen – im Umfang
+und für die Laufzeit des gekauften Pakets.
+
+
+3. Was nicht erlaubt ist
+------------------------
+
+Ohne vorherige schriftliche Erlaubnis (E-Mail genügt) darfst du nicht
+
+  a) die Lizenzprüfung, die Free-Liste oder andere Schutzmaßnahmen umgehen,
+     entfernen, verändern oder nachbauen, um nicht freigeschaltete
+     Funktionen zu nutzen, und keine Werkzeuge dafür verbreiten;
+
+  b) die Software oder Teile davon verkaufen, vermieten oder gegen Entgelt
+     anbieten, und sie nicht als eigenes Produkt ausgeben;
+
+  c) die Software auf anderen Download-Plattformen, Plugin-Seiten oder in
+     Paketen Dritter zum Download anbieten – verlinke stattdessen auf die
+     offizielle Quelle (Ziffer 1);
+
+  d) veränderte Fassungen der Software verbreiten oder Dritten zur Nutzung
+     bereitstellen;
+
+  e) Urheber- und Lizenzhinweise entfernen oder verändern.
+
+Gesetzlich erlaubte Handlungen bleiben unberührt, insbesondere die
+Dekompilierung zur Herstellung der Interoperabilität (§ 69e UrhG) und die
+Fehlerberichtigung (§ 69d UrhG).
+
+
+4. Quellcode
+------------
+
+Der Quellcode ist nicht Teil dieser Lizenz. Wer Einsicht in den Quellcode
+erhält, darf ihn lesen und zur Bewertung der Software verwenden; jede
+weitere Nutzung braucht eine schriftliche Erlaubnis.
+
+
+5. Software Dritter
+-------------------
+
+Enthaltene oder von der Software heruntergeladene Komponenten Dritter
+(z. B. Server-Software, Java, Bibliotheken, Plugins) stehen unter den
+Lizenzen ihrer Urheber. Für Minecraft-Server gilt die Minecraft-EULA von
+Mojang (https://aka.ms/MinecraftEULA); die Eternal Cloud startet Server erst,
+nachdem du ihr im Dashboard zugestimmt hast.
+
+
+6. Haftung
+----------
+
+Für die kostenlose Nutzung haften wir nur für Vorsatz und grobe
+Fahrlässigkeit sowie für arglistig verschwiegene Mängel. Die Haftung nach
+dem Produkthaftungsgesetz und für Schäden aus der Verletzung von Leben,
+Körper oder Gesundheit bleibt unberührt. Einzelheiten und die Regeln für
+gekaufte Lizenzen stehen in den Lizenzbedingungen.
+
+
+7. Ende der Lizenz, Rangfolge, Recht
+------------------------------------
+
+Verstößt du gegen Ziffer 3, endet dein Nutzungsrecht nach dieser Lizenz.
+Bei Widersprüchen gehen die Lizenzbedingungen dieser Lizenz vor. Es gilt
+deutsches Recht; zwingende Verbraucherschutzvorschriften deines
+Aufenthaltsstaates bleiben unberührt.
+
+
+-------------------------------------------------------------------------
+English summary (the German text above is binding):
+
+EternalSystem is free to download and use. You may run the official builds
+on any number of servers, privately or commercially, and use every feature
+that is unlocked without a license key (the Base modules and everything the
+license server's free list marks as free). Paid modules need a valid license
+key. You may not bypass license checks, sell or re-host the software, or
+distribute modified versions. Full terms:
+https://eternal.adambn.dev/lizenzbedingungen
