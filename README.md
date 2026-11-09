@@ -13,3 +13,7 @@ Jedes Release enthält:
 
 Die Auto-Update-Funktion (API → Plugins, Web-Updater → Dashboard) liest dieses Repo
 über die GitHub-API; es braucht keinen Token.
+
+## Lizenz
+
+EternalSystem ist kostenlos nutzbar – privat und gewerblich, mit allen Funktionen, die ohne Lizenzschlüssel freigeschaltet sind. Einzelheiten in [LICENSE](LICENSE); für gekaufte Module gelten die [Lizenzbedingungen](https://eternal.adambn.dev/lizenzbedingungen).
